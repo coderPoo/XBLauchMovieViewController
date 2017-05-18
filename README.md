@@ -4,8 +4,9 @@
 * 第二：当视频在播放中，进入后台视频暂停，在进入APP视频继续播放
 
 </br>
-</br>
- 
+<img src="https://github.com/coderPoo/XBLauchMovieViewController/blob/master/XBLaunchMovieDemo/XBLaunchMovieDemo/app.gif" width="200" height="350" alt="手机效果"/>
+ </br>
+
 ## 关键的3个点
 
 1. 在moviePlayer 的view和backgroundView 分别加上启动图片和结束播放图片空间，为什么这么放 有兴趣可以研究一下
@@ -58,7 +59,6 @@
  ```
  
  
- 更新文档 一是因为有空闲时间了，二是看到别人拿我的项目 放到自己的github上然后有 100多个star。心里边... 如果有更好方法 可以联系QQ469926011
- 如果转载 希望加上原地址谢谢！！
+ 更新文档 一是因为有空闲时间了，二是看到别人拿我的项目 放到自己的github上然后有 100多个star。心里边... 如果有更好方法 可以联系QQ469926011`如果转载 希望加上原地址谢谢！！`
  
  
